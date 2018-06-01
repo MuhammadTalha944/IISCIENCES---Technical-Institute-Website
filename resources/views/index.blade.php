@@ -12,8 +12,8 @@
                             <li>
                                 <img src="assets/img/image.jpg" alt="img">
                                 <div class="slider_caption">
-                                    <h2>Largest & Beautiful University</h2>
-                                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                                    <h2>University's like environment</h2>
+                                    <p>The envoirment of iisciences is just like other universities.You would be confortable when you study here.</p>
                                 </div>
                             </li>
                             <!-- Start single slider-->
@@ -21,8 +21,8 @@
                                 <img src="assets/img/Students-1366x768.jpg" alt="img">
                                 <div class="slider_caption slider_right_caption">
                                     <h2>Better Education Environment</h2>
-                                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search</p>
-                                    <a class="slider_btn" href="#">Know More</a>
+                                    <p>Its has a better education envoirnment because we have set our standard so that you will get a qualityu education  here</p>
+                                    
                                 </div>
                             </li>
                             <!-- Start single slider-->
@@ -30,8 +30,8 @@
                                 <img src="assets/img/students-in-the-university-auditorium-listening-to-a-lecture_vhfgc12ul__F0000.png" alt="img">
                                 <div class="slider_caption">
                                     <h2>Find out you in better way</h2>
-                                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search</p>
-                                    <a class="slider_btn" href="#">Know More</a>
+                                    <p>When you have experienced teachers around you, they will let you to find your inner self and will guide you how you can achieve your aim/goal</p>
+
                                 </div>
                             </li>
                         </ul>
@@ -61,7 +61,7 @@
         <div class="col-lg-12 col-md-12 col-sm-12">
           <div class="aboutus_area wow fadeInLeft">
             <h2>Welcome to IISCIENCES</h2>
-            <p>It gives me great pleasure, as Principal ofIISCIENCES to welcome you to the official 
+            <p>It gives me great pleasure, as Principal ofIISCIENCES to welcome you to the official
                 <a href="index.html">IISCIENCES website</a>. This website has been prepared in the hope that it will become for parents, students, and visitors to the site, a valuable source of Institute news and timely information.</p>
               <p>
               IISCIENCES is an English Medium professional Institute established in 20-- fully recognized, and affiliated with Skill Development Council Lahore, Trade Testing Professional Council Rawalpindi foreign universities and colleges and is engaged in Distance Learning Education. In addition to its accreditation with various top ranked colleges & universities abroad to excel distance learning on Fast Track Education for life experienced, matured and on-job professionals.
@@ -85,25 +85,25 @@
                 </ul>
           </div>
         </div>
-            
+
       </div>
       </div>
     </section>
-    <!--=========== END ABOUT US SECTION ================--> 
+    <!--=========== END ABOUT US SECTION ================-->
 
     <!--=========== BEGIN WHY US SECTION ================-->
     <section id="whyUs">
       <!-- Start why us top -->
-      <div class="row">        
+      <div class="row">
         <div class="col-lg-12 col-sm-12">
           <div class="whyus_top">
             <div class="container">
               <!-- Why us top titile -->
               <div class="row">
-                <div class="col-lg-12 col-md-12"> 
+                <div class="col-lg-12 col-md-12">
                   <div class="title_area">
                     <h2 class="title_two">Why Us</h2>
-                    <span></span> 
+                    <span></span>
                   </div>
                 </div>
               </div>
@@ -150,7 +150,7 @@
               <!-- End Why us top content  -->
             </div>
           </div>
-        </div>        
+        </div>
       </div>
       <!-- End why us top -->
 
@@ -164,10 +164,10 @@
       <div class="container">
        <!-- Our courses titile -->
         <div class="row">
-          <div class="col-lg-12 col-md-12"> 
+          <div class="col-lg-12 col-md-12">
             <div class="title_area">
               <h1><font color="white">Award of Diploma</font></h1>
-              <span></span> 
+              <span></span>
             </div>
           </div>
         </div>
@@ -191,7 +191,7 @@
         <!-- End Our courses content -->
       </div>
     </section>
-    <!--=========== END OUR COURSES SECTION ================-->  
+    <!--=========== END OUR COURSES SECTION ================-->
 
     <!--=========== BEGIN OUR TUTORS SECTION ================-->
     <section id="ourTutors">
@@ -277,8 +277,8 @@
             <!-- End Our courses content -->
         </div>
     </section>
-    <!--=========== END OUR TUTORS SECTION ================-->    
-    
+    <!--=========== END OUR TUTORS SECTION ================-->
+
     <!--=========== BEGIN FOOTER SECTION ================-->
-    
+
 @endsection
