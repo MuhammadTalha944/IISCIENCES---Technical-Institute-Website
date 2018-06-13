@@ -43,30 +43,38 @@
                 <table class="table table-striped">
             <thead>
               <tr>
-                <th>id</th>
                 <th>name</th>
+                <th>Father Name</th>
                 <th>Roll No</th>
                 <th>Course</th>
-                <th>Course Type</th>
+                <th>Course duration</th>
+                <th>email</th>
+                <th>Mobile No.</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                  <td>
-                      {{$studentData->id}}
-                  </td>
-                  <td>
-                      {{$studentData->name}}
-                  </td>
-                  <td>
-                      {{$studentData->roll_No}}
-                  </td>
-                  <td>
-                      {{$studentData->course}}
-                  </td>
-                  <td>
-                      {{$studentData->courseType}}
-                  </td>
+                <td>
+                    {{$studentData['name']}}
+                </td>
+                <td>
+                    {{$studentData['Father_name']}}
+                </td>
+                <td>
+                    {{$studentData['roll_No']}}
+                </td>
+                <td>
+                    {{$studentData['courseTitle']}}
+                </td>
+                <td>
+                    {{$studentData['courseType']}}
+                </td>
+                <td>
+                    {{$studentData['email']}}
+                </td>
+                <td>
+                    {{$studentData['mobile']}}
+                </td>
             </tbody>
           </table>
           @endif

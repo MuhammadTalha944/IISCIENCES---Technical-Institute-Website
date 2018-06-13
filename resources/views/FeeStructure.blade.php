@@ -38,7 +38,7 @@
 
                   Send your documents either by E-mail or by courier on our address
 
-                  <h4>Email ID : iisciences@gmail.com</h4>
+                  <h4>Email ID : iiscienceslhr@gmail.com</h4>
                 </b>
                 </span>
               </p>
@@ -81,7 +81,7 @@
               <p align="right"><b> Chief Eextuive / Director<br />
               Mr. Dr. Munir Mughal<br />
               +92-xxxxxxxxxx / xxxxxxxxxx<br />
-              E-mail us: iisciences@gmail.com<br />
+              E-mail us: iiscienceslhr@gmail.com<br />
             </b></p>
               <p><b><span style="color: #ff0000; font-family: Arial;"> The IISCIENCES lahore Bank Account Detail Deposit your fee in Habib Bank Ltd (HBL) Cantt Branch Lahore</span><span style="color: #003366; font-family: Arial;"><br />
               </span></b></p>

@@ -21,11 +21,18 @@
         <div class="col-lg-6 col-md-6 col-sm-12">
           <div class="aboutus_area wow fadeInLeft">
             <h2>SDC Affiliation certificate</h2>
+            <a href="assets/img/Certificates/sdc.jpg" target="_blank">
+            <img src="assets/img/Certificates/sdc.jpg" width="200px;" height="300px;">
+          </a>
+
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
           <div class="aboutus_area wow fadeInLeft">
             <h2>TTPC Affiliation certificate</h2>
+            <a href="assets/img/Certificates/sdc.jpg" target="_blank">
+            <img src="assets/img/Certificates/sdc.jpg" width="200px;" height="300px;">
+          </a>
           </div>
         </div>
 

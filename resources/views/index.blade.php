@@ -12,7 +12,7 @@
                             <li>
                                 <img src="assets/img/image.jpg" alt="img">
                                 <div class="slider_caption">
-                                    <h2>University's like environment</h2>
+                                    <h2>College like environment</h2>
                                     <p>The envoirment of iisciences is just like other universities.You would be confortable when you study here.</p>
                                 </div>
                             </li>
@@ -22,7 +22,7 @@
                                 <div class="slider_caption slider_right_caption">
                                     <h2>Better Education Environment</h2>
                                     <p>Its has a better education envoirnment because we have set our standard so that you will get a qualityu education  here</p>
-                                    
+
                                 </div>
                             </li>
                             <!-- Start single slider-->
@@ -41,11 +41,11 @@
                         </nav>
                     </div>
                     <marquee direction="right" style="background-color: #004C92; height: 42px;">
-                        <img src="http://mips.edu.pk/wp-content/uploads/2016/12/urduttb5.jpg">
-                        <img src="http://mips.edu.pk/wp-content/uploads/2016/12/urduttb4.jpg">
-                        <img src="http://mips.edu.pk/wp-content/uploads/2016/12/urduttb3.jpg">
-                        <img src="http://mips.edu.pk/wp-content/uploads/2016/12/urduttb2.jpg">
-                        <img src="http://mips.edu.pk/wp-content/uploads/2016/12/urduttb.jpg">
+                        <img src="assets/img/marque/urduttb5.jpg">
+                        <img src="assets/img/marque/urduttb4.jpg">
+                        <img src="assets/img/marque/urduttb3.jpg">
+                        <img src="assets/img/marque/urduttb2.jpg">
+                        <img src="assets/img/marque/urduttb.jpg">
                     </marquee>
                 </div>
             </div>

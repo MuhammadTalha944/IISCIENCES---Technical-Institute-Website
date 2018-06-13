@@ -77,12 +77,12 @@ Route::get('gallery','WebsiteController@gallery');
 
 Auth::routes();
 
-
 Route::group(['middleware' => ['auth']], function() {
 
 Route::get('/home', 'HomeController@index')->name('home');
 //Admin panel//
 Route::post('createStudent','StudentsController@create');
+Route::get('addSTU','StudentsController@addSTU');
 Route::get('allStudents','StudentsController@viewStudents');
 Route::get('deleteStudent&{id}','StudentsController@delete');
 Route::get('editStudentInfo&{id}','StudentsController@edit');

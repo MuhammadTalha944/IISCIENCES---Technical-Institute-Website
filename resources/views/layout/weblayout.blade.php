@@ -104,14 +104,14 @@
                       <font color="black">about us</font><span class="caret"></span></a>
                   <ul id="top-menu" class=" dropdown-menu  navbar-right main-nav">
                     <li class="dropdown-submenu">
-                      <a class="test" tabindex="-1" href="#"><font color="black">Message From ></font><span class="caret">
+                      <a class="test" tabindex="-1" href="#"><font color="black"><b>Message From</b></font><span class="caret">
                           </span></a>
                       <ul class="dropdown-menu">
-                        <li><a href="chairmen"><font color="black">-chairman&nbsp;
+                        <li><a href="chairmen"><font color="black"><b>-chairman&nbsp;</b>
                                 </font></a></li>
-                          <li><a href="director_Monitoring"><font color="black">-Director Monitoring&nbsp;</font></a></li>
-                          <li><a href="director_finance"><font color="black">-Director Finance&nbsp;</font></a></li>
-                          <li><a href="director_programs"><font color="black">-Director Programs&nbsp;</font></a></li>
+                          <li><a href="director_Monitoring"><font color="black"><b>-Director Monitoring&nbsp;</b></font></a></li>
+                          <li><a href="director_finance"><font color="black"><b>-Director Finance&nbsp;</b></font></a></li>
+                          <li><a href="director_programs"><font color="black"><b>-Director Programs&nbsp;</b></font></a></li>
 
 
                       </ul>
@@ -166,7 +166,7 @@
                   <ul class="dropdown-menu" role="menu">
                     <li><a href="admission_forms"><font color="black">Admission Forms</font></a></li>
                       <li class="dropdown-submenu">
-                          <a class="test" tabindex="-1" href="#"><font color="black">Courses ></font><span class="caret">
+                          <a class="test" tabindex="-1" href="#"><font color="black"><b>Courses</font><span class="caret">
                           </span></a>
                           <ul class="dropdown-menu">
                               <li><a href="Threemnth"><font color="black">-3 months course
@@ -174,7 +174,7 @@
                               <li><a href="SixMontn"><font color="black">-6 months course</font></a></li>
                               <li><a href="OneYear"><font color="black">-1 year course</font></a></li>
                               <li><a href="TwoYear"><font color="black">-2 year course</font></a></li>
-                              <li><a href="DegreeProgram"><font color="black">-degree program</font></a></li>
+                              <li><a href="DegreeProgram"><font color="black">-degree program</b></font></a></li>
                           </ul>
                       </li>
                     <li><a href="FeeStructure"><font color="black">Fee Structure</font></a></li>
@@ -262,7 +262,7 @@
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
               <div class="footer_bootomRight">
-                <p>Designed by <a href="http://wpfreeware.com/" rel="nofollow">Wpfreeware.com</a> and developed by
+                <p>Developed by
                    <a href="http://wpfreeware.com/" rel="nofollow">Talha Ishiaq</a> </p>
               </div>
             </div>
